@@ -78,3 +78,7 @@ cp -R research-paper-writing "$HOME/.gemini/skills/"
 
 再次说明：仓库核心知识来源于彭思达老师公开笔记；我主要负责整理与 Skills 化适配。
 彭老师原始仓库：https://github.com/pengsida/learning_research
+
+## 许可证
+
+本项目采用 MIT License，详见 [LICENSE](./LICENSE)。
